@@ -14,7 +14,7 @@ Bootstrap: Used for responsive design and pre-built UI components.
 JavaScript: Used for client-side interactivity and dynamic behavior.
 SASS: Used as a CSS preprocessor to enhance styling capabilities.
 
-# Demo Site: [[Here]](http://127.0.0.1:5500/concept-master/index.html)
+# Site: [[Here]]( https://chebrolu-tejopriya.github.io/MSCS/)
 
 # File Structure
 The repository's file structure is organized as follows:
